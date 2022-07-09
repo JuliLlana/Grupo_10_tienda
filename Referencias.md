@@ -1,6 +1,10 @@
-Referencias del mercado en las cuales basamos nuestro sitio Web:
+# Referencias del mercado en las cuales basamos nuestro sitio Web:
 
-https://www.adidas.com.ar/
-https://www.penguinargentina.com/
-https://www.mistral.com.ar/
-https://www.zara.com/ar/
++ [Adidas](https://www.adidas.com.ar/)
+    + ** porque: **
++ [Pengui](https://www.penguinargentina.com/)
+    + ** porque: **
++ [Mistral](https://www.mistral.com.ar/)
+    + ** porque: **
++ [Zara](https://www.zara.com/ar/)
+    + ** porque: **
