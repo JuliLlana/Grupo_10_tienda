@@ -1,10 +1,10 @@
 # Referencias del mercado en las cuales basamos nuestro sitio Web:
 
 + [Adidas](https://www.adidas.com.ar/)
-    + ** porque: **
+    + **porque:**
 + [Pengui](https://www.penguinargentina.com/)
-    + ** porque: **
+    + **porque:**
 + [Mistral](https://www.mistral.com.ar/)
-    + ** porque: **
+    + **porque:**
 + [Zara](https://www.zara.com/ar/)
-    + ** porque: **
+    + **porque:**
